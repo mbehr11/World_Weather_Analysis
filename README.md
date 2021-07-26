@@ -13,19 +13,27 @@ After testing out the Plan my trip app in a Beta audience, they suggested a few 
 ### World_Weather_Analysis Results:
 1.	Weather Database: city_weather_data_df:
 
-##### ![alttext]( https://github.com/mbehr11/World_Weather_Analysis/blob/main/Weather_Database/city_weather_data_df.PNG #####
+##### ![alttext]( https://github.com/mbehr11/World_Weather_Analysis/blob/main/Weather_Database/city_weather_data_df.PNG) #####
 
 2.	Vacation Search: clean_hotel_df:
 
-#####![alttext]( https://github.com/mbehr11/World_Weather_Analysis/blob/main/Vacation_Search/clean_hotel_df.PNG) #####
+    #####
+    ![alttext]( https://github.com/mbehr11/World_Weather_Analysis/blob/main/Vacation_Search/clean_hotel_df.PNG) 
+    #####
 
 3.	Weatherpy_vacation_map:
-#####![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Avg_fare_by_ride.PNG) #####
+#####
+![alttext](https://github.com/mbehr11/PyBer_Analysis/blob/main/Resources/Avg_fare_by_ride.PNG)
+#####
 
 4.	WeatherPy_travel_map:
-#####![alttext]( https://github.com/mbehr11/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png) #####
+#####
+![alttext]( https://github.com/mbehr11/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png) 
+#####
 5.	WeatherPy_travel_map_markers:
-#####![alttext]( https://github.com/mbehr11/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png..PNG) #####
+#####
+![alttext]( https://github.com/mbehr11/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png..PNG) 
+#####
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
